@@ -1,5 +1,5 @@
 # 🦝 Olá! Me chamo Andrey Vinícius Jodar
-💻 Estudante de Engenharia de Software<br>‍🏫 Instituto Federal do Paraná - IFPR (Campus Paranavaí)<br>📖 Iniciante em programação, mas sempre dedicado a aprender<br>💼 Nunca trabalhei no ramo de tecnologia
+💻 Estudante do 3º Ano de Engenharia de Software<br>‍🏫 Instituto Federal do Paraná - IFPR (Campus Paranavaí)<br>📖 Fascinado por arquitetura de software e padrões de projeto<br>💼 Buscando uma oportunidade para contribuir e gerar valor
 
 ## 
 ![](https://github-readme-stats.vercel.app/api?username=andreyjodar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
